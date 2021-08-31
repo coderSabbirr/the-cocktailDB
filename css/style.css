@@ -1,0 +1,9 @@
+body {
+    background-color: #230312 !important;
+}
+.heading_text {
+    color:white;
+}
+#show-result {
+    border-radius: 10px;
+}
